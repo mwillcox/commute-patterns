@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/commute-patterns/static/css/main.0aeda099.chunk.css",
+    "main.js": "/commute-patterns/static/js/main.979949af.chunk.js",
+    "main.js.map": "/commute-patterns/static/js/main.979949af.chunk.js.map",
+    "runtime-main.js": "/commute-patterns/static/js/runtime-main.39ed823e.js",
+    "runtime-main.js.map": "/commute-patterns/static/js/runtime-main.39ed823e.js.map",
+    "static/css/2.833dd627.chunk.css": "/commute-patterns/static/css/2.833dd627.chunk.css",
+    "static/js/2.edc38a14.chunk.js": "/commute-patterns/static/js/2.edc38a14.chunk.js",
+    "static/js/2.edc38a14.chunk.js.map": "/commute-patterns/static/js/2.edc38a14.chunk.js.map",
+    "index.html": "/commute-patterns/index.html",
+    "precache-manifest.c2925bae81e7134ace75527704544002.js": "/commute-patterns/precache-manifest.c2925bae81e7134ace75527704544002.js",
+    "service-worker.js": "/commute-patterns/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/commute-patterns/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.0aeda099.chunk.css.map": "/commute-patterns/static/css/main.0aeda099.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39ed823e.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.edc38a14.chunk.js",
+    "static/css/main.0aeda099.chunk.css",
+    "static/js/main.979949af.chunk.js"
+  ]
+}
