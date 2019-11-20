@@ -6,10 +6,12 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
+    "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.14",
     "react-dom": "^16.12.0",
-    "react-uid": "^2.2.0"
+    "react-uid": "^2.2.0",
+    "recharts": "^1.8.5"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
