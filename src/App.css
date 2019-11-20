@@ -2,7 +2,47 @@
   text-align: center;
 }
 
-header {
-  margin-top: 50px;
-  margin-bottom: 50px;
+.header-container {
+  background-image: url(./bridge.jpg);
+  height: 300px;
+  max-width: 1200px;
+  background-position: left center;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.header-content {
+  color: black;
+  font-family: 'Viga', sans-serif;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 20px;
+  background: white;
+  opacity: 0.9;
+  text-align: left;
+  max-width: 400px;
+}
+
+.county-select {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background-color: black;
+  color: white;
+}
+
+.county-select a {
+  color: #FFA500;
+}
+
+.select-label {
+  font-size: 20px;
+  color: yellow;
+}
+
+.county-select select {
+ margin-left: 20px;
 }
